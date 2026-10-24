@@ -1,0 +1,19 @@
+[
+ {
+  "id": "E1",
+  "type": "birth",
+  "date": "1925",
+  "date_precision": "year",
+  "year": 1925,
+  "place": "Sampleton",
+  "participants": [
+   {
+    "id": "I1",
+    "name": "Alex Example",
+    "role": "principal"
+   }
+  ],
+  "origin": "sample",
+  "citations": []
+ }
+]

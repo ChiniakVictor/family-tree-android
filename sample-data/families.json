@@ -1,0 +1,38 @@
+[
+ {
+  "id": "F1",
+  "parent1": "I1",
+  "parent1_name": "Alex Example",
+  "parent2": "I2",
+  "parent2_name": "Jordan Sample",
+  "unknown_parent_placeholder": null,
+  "relationship_connector": [
+   "married"
+  ],
+  "marriage": {
+   "date": "1950",
+   "place": "Sampleton"
+  },
+  "children": [
+   {
+    "id": "I3",
+    "name": "Casey Example",
+    "confidence": "sample",
+    "origin": "sample",
+    "confirmed_by": []
+   },
+   {
+    "id": "I4",
+    "name": "Riley Example",
+    "confidence": "sample",
+    "origin": "sample",
+    "confirmed_by": []
+   }
+  ],
+  "sources": [],
+  "notes": [
+   "Fictional sample family."
+  ],
+  "origin": "sample"
+ }
+]

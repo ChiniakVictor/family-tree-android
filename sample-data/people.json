@@ -1,0 +1,199 @@
+[
+ {
+  "id": "I1",
+  "display_name": "Alex Example",
+  "given_names": "Alex",
+  "surname": "Example",
+  "full_name": "Alex Example",
+  "maiden_name": null,
+  "married_name": null,
+  "nicknames": [],
+  "aliases": [],
+  "name_truncated_on_card": false,
+  "sex": "M",
+  "sex_basis": "sample",
+  "living": false,
+  "birth": {
+   "date": "1925",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "death": {
+   "date": "1999",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "lifespan": "1925-1999",
+  "occupations": [],
+  "residences": [],
+  "notes": [
+   "Fictional sample person."
+  ],
+  "parents": [],
+  "spouses": [
+   {
+    "id": "I2",
+    "family": "F1",
+    "marriage": {
+     "date": "1950",
+     "place": "Sampleton"
+    },
+    "connector": "married"
+   }
+  ],
+  "children": [
+   "I3",
+   "I4"
+  ],
+  "sources": [],
+  "appears_in": [],
+  "generation_relative_to_victor": 0,
+  "direct_ancestor_of_victor": null
+ },
+ {
+  "id": "I2",
+  "display_name": "Jordan Sample",
+  "given_names": "Jordan",
+  "surname": "Sample",
+  "full_name": "Jordan Sample",
+  "maiden_name": null,
+  "married_name": null,
+  "nicknames": [],
+  "aliases": [],
+  "name_truncated_on_card": false,
+  "sex": "F",
+  "sex_basis": "sample",
+  "living": false,
+  "birth": {
+   "date": "1928",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "death": {
+   "date": "2005",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "lifespan": "1928-2005",
+  "occupations": [],
+  "residences": [],
+  "notes": [
+   "Fictional sample person."
+  ],
+  "parents": [],
+  "spouses": [
+   {
+    "id": "I1",
+    "family": "F1",
+    "marriage": {
+     "date": "1950",
+     "place": "Sampleton"
+    },
+    "connector": "married"
+   }
+  ],
+  "children": [
+   "I3",
+   "I4"
+  ],
+  "sources": [],
+  "appears_in": [],
+  "generation_relative_to_victor": 0,
+  "direct_ancestor_of_victor": null
+ },
+ {
+  "id": "I3",
+  "display_name": "Casey Example",
+  "given_names": "Casey",
+  "surname": "Example",
+  "full_name": "Casey Example",
+  "maiden_name": null,
+  "married_name": null,
+  "nicknames": [],
+  "aliases": [],
+  "name_truncated_on_card": false,
+  "sex": "F",
+  "sex_basis": "sample",
+  "living": true,
+  "birth": {
+   "date": "1952",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "death": null,
+  "lifespan": "1952-",
+  "occupations": [],
+  "residences": [],
+  "notes": [
+   "Fictional sample person."
+  ],
+  "parents": [
+   {
+    "family": "F1",
+    "father_or_parent1": "I1",
+    "mother_or_parent2": "I2",
+    "confidence": "sample",
+    "origin": "sample"
+   }
+  ],
+  "spouses": [],
+  "children": [],
+  "sources": [],
+  "appears_in": [],
+  "generation_relative_to_victor": 0,
+  "direct_ancestor_of_victor": null
+ },
+ {
+  "id": "I4",
+  "display_name": "Riley Example",
+  "given_names": "Riley",
+  "surname": "Example",
+  "full_name": "Riley Example",
+  "maiden_name": null,
+  "married_name": null,
+  "nicknames": [],
+  "aliases": [],
+  "name_truncated_on_card": false,
+  "sex": "M",
+  "sex_basis": "sample",
+  "living": false,
+  "birth": {
+   "date": "1955",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "death": {
+   "date": "2020",
+   "place": "Sampleton, Example County",
+   "origin": "sample",
+   "citations": []
+  },
+  "lifespan": "1955-2020",
+  "occupations": [],
+  "residences": [],
+  "notes": [
+   "Fictional sample person."
+  ],
+  "parents": [
+   {
+    "family": "F1",
+    "father_or_parent1": "I1",
+    "mother_or_parent2": "I2",
+    "confidence": "sample",
+    "origin": "sample"
+   }
+  ],
+  "spouses": [],
+  "children": [],
+  "sources": [],
+  "appears_in": [],
+  "generation_relative_to_victor": 0,
+  "direct_ancestor_of_victor": null
+ }
+]
